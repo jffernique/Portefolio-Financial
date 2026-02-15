@@ -430,7 +430,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 Si ce projet vous est utile, vous pouvez soutenir son développement en faisant un don en Bitcoin :
 
-**Adresse BTC :** `bc1qVOTREADRESSEBTCici`
+**Adresse BTC :** `bc1q3ylm73apz3vse75jk69vu0k2vejpln9hknx5y8`
 
 Vous pouvez aussi accéder à la page de donation directement dans l'application via **Aide → Faire un don (BTC)** avec QR code intégré.
 
